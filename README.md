@@ -10,17 +10,6 @@ A full-stack web application for managing student records in a 4-year, 8-semeste
 
 ---
 
-## 📸 Screenshots
-
-| Login | Dashboard |
-|---|---|
-| ![Login](docs/login.png) | ![Dashboard](docs/dashboard.png) |
-
-| Subject breakdown | Add student |
-|---|---|
-| ![Subjects](docs/subjects.png) | ![Form](docs/add-student.png) |
-
----
 
 ## ✨ Features
 
